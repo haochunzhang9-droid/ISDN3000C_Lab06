@@ -17,7 +17,7 @@ The lab consists of two main parts:
 - Breadboard and jumper wires
 
 ### Circuit Diagram / Photo
-![Circuit Photo](./giii.jpg)  
+![Circuit Photo](/.giii_副本.jpg)  
 *(Replace with your actual circuit photo)*
 
 ---
