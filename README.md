@@ -17,14 +17,9 @@ The lab consists of two main parts:
 - Breadboard and jumper wires
 
 ### Circuit Diagram / Photo
-![Circuit Photo](./circuit.jpg)  
+![Circuit Photo](./giii.jpg)  
 *(Replace with your actual circuit photo)*
 
----
-
-## Repository Structure
-
-ISDN3000C_Lab06/ │ ├── led_fade.py # PWM LED fading example ├── camera_test.py # Basic camera test ├── camera_edges.py # Camera with Canny edge detection ├── camera_button_led.py # Group assignment: button + LED + camera ├── requirements.txt # Python dependencies ├── .gitignore # Ignore vt├── .gitignore # Ignore virtual environment and cache files └── README.md # Project documentation
 ---
 
 ```bash
