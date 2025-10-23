@@ -22,15 +22,12 @@ The lab consists of two main parts:
 
 ---
 
-```bash
 git clone https://github.com/haochunzhang9-droid/ISDN3000C_Lab06.git
 
 
 python3 -m venv lab06_venv
 source lab06_venv/bin/activate
 
-
-pip install -r requirements.txt
 
 python3 led_fade.py
 
